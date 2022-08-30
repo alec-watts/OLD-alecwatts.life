@@ -2,3 +2,15 @@ html, body {
   height: 100%;
   width: 100%;
 }
+
+#main {
+  width: 60%;
+  margin: 40px auto;
+}
+
+#c {
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
