@@ -8,6 +8,14 @@ html, body {
   margin: 40px auto;
 }
 
+.lg-ttl {
+  font-size: 30px;
+}
+
+.sm-ttl {
+  font-size: 20px;
+}
+
 #c {
   position: fixed;
   top: 0;
